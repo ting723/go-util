@@ -5,6 +5,6 @@ import (
 	"time"
 )
 
-func printNow(){
+func PrintNow(){
 	fmt.Println(time.Now())
 }
